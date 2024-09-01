@@ -1,2 +1,3 @@
 # GD-Texture-Fix
-fixed textures
+fixed textures:
+player_62-uhd one pixel
